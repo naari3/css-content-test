@@ -1,0 +1,14 @@
+{
+  "name": "css-content-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "naari3 <naari.named@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
